@@ -1,0 +1,14 @@
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\bin\Debug\net8.0\SEM7_DZ2.exe
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\bin\Debug\net8.0\SEM7_DZ2.deps.json
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\bin\Debug\net8.0\SEM7_DZ2.runtimeconfig.json
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\bin\Debug\net8.0\SEM7_DZ2.dll
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\bin\Debug\net8.0\SEM7_DZ2.pdb
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\SEM7_DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\SEM7_DZ2.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\SEM7_DZ2.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\SEM7_DZ2.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\SEM7_DZ2.dll
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\refint\SEM7_DZ2.dll
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\SEM7_DZ2.pdb
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\SEM7_DZ2.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\SEM7_Rek_dz\SEM7_DZ1\.gitignore\SEM7_DZ2\obj\Debug\net8.0\ref\SEM7_DZ2.dll

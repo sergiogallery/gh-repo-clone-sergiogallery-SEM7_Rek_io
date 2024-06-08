@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SEM7_DZ2/1.0.0": {
+        "runtime": {
+          "SEM7_DZ2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEM7_DZ2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
